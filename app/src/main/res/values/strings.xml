@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BD Gov Digital Online Services</string>
+
+    <!-- Admob AD ON or OFF -->
+    <string name="show_admob_ad">ON</string>
+
+    <!-- Device ID  setTestDeviceIds (search on logcat for device id) -->
+    <string name="device_id">08B12E4BD8AE33C2B7974092CBB88ABB</string>
+
+    <!-- Admob APP ID HERE -->
+    <string name="admob_APP_ID">ca-app-pub-1985613233616075~4959341070</string>
+    <!-- Admob Ad Unit IDS Here -->
+    <string name="admob_INTERSTITIAL_UNIT_ID">ca-app-pub-1985613233616075/9625344395</string>
+    <string name="admob_BANNER_UNIT_ID">ca-app-pub-1985613233616075/1774774537</string>
+
+
+</resources>
